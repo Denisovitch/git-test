@@ -14,3 +14,7 @@ add some for FUATURE BRANCh PART2
 
 
 new line in main ofter merge
+
+
+
+NEW couplet task resolv/branch main
